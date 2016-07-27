@@ -1,5 +1,11 @@
 <?php
 
+$message = "Hello World";
+$mobile = "918112998787";
+send_sms($mobile,$message);
+
+
+=============================================================================
 function send_sms($mobile,$msg)
 {
 	$authKey = "XXXXXXXXXXX";
