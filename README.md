@@ -1,5 +1,7 @@
 # Php-Tid-bits
 
-Some of these are untested
+Old blocks of code to do quirky little tasks
 
-Also the syntax to trigger some of these functions is displayed first
+*May not work anymore - but gives rough idea of how to approach task again
+
+*Also the syntax to trigger some of these functions is displayed first
